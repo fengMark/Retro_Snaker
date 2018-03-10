@@ -1,0 +1,15 @@
+﻿生成启动时间为 2018/3/4 12:12:24。
+     1>项目“E:\VSworkStation\project\贪吃蛇\贪吃蛇\贪吃蛇.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>e:\vsworkstation\project\贪吃蛇\贪吃蛇\源.cpp(73): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : 参见“getch”的声明
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VSworkStation\project\贪吃蛇\Debug\贪吃蛇.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\VSworkStation\project\贪吃蛇\Debug\贪吃蛇.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VSworkStation\project\贪吃蛇\Debug\贪吃蛇.lib" /MACHINE:X86 "Debug\源.obj"
+         贪吃蛇.vcxproj -> E:\VSworkStation\project\贪吃蛇\Debug\贪吃蛇.exe
+     1>已完成生成项目“E:\VSworkStation\project\贪吃蛇\贪吃蛇\贪吃蛇.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.38
